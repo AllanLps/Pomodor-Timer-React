@@ -26,6 +26,6 @@ Meu objetivo com esse projeto era desenvolver uma aplicação funcional e, ao me
 ## 🎥 Video:
 
 <video width="640" height="360" controls>
-  <source src="caminho_do_video.mp4" type="video/mp4">
+  <source src="https://youtu.be/mUEPJE6l5Ew" type="video/mp4">
   Seu navegador não suporta a reprodução do vídeo.
 </video>
