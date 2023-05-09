@@ -24,4 +24,4 @@ Meu objetivo com esse projeto era desenvolver uma aplicação funcional e, ao me
 
 ## 🔗 Link do projeto:
 
-[Projeto 01 - Clima tempo usando API](https://pomodor-timer-react.vercel.app/)
+### [Pomodoro Timer](https://pomodor-timer-react.vercel.app/)
